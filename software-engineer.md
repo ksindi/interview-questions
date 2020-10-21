@@ -1,7 +1,5 @@
 # Software Engineer
 
-_Only includes soft skill questions_
-
 ## Owner
 _Takes ownership of a problem even when it's not 100% their responsibility; understands the why._
 
