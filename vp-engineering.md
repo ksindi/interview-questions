@@ -1,18 +1,16 @@
-# VP Engineering
-
-Tell the candidate upfront that you have a lot of questions and want to make sure each one doesn't go much more than 3 minutes; they might have to be interrupted so that you can move on.
+# VP of Engineering
 
 ## Warm Ups
 1. How many people do you manage? How many directly?
 1. Did you build the team or inherit them?
 1. Why are you leaving your current company?
 1. What excites you about this company?
-1. What makes a __great__ VP of Engineering?
+1. **What makes a _great_ VP of Engineering as opposed to just a good one?**
 
 ## Management Mechanics
 1. How do you keep in touch with your team?
 1. 1–1s: what is the purpose, structure, and cadence?
-1. Give an example where you had to deliver hard feedback to someone?
+1. Give an example where you had to give hard feedback to someone?
 1. Have you ever had to let anyone go? What was the thinking and process behind it?
 1. How is managing a manager different from managing individual contributors?
 1. How do you deal with someone who disagrees with a decision? Walk me through an example.
