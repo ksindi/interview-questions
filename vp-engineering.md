@@ -32,6 +32,7 @@
 
 ## Personality and Backbone
 1. Tell me about a time you had to disagree with the CEO/CTO/VP? What was the outcome?
+1. Tell me about a time when someone changed your mind about something. What was your thought process behind it?
 1. Walk me through a time you had to take risk where your manager, peers or reports doubted your decision.
 1. Tell me about a time when you made a hard decision to sacrifice short term gain for a longer term goal.
 1. **What do your direct reports like about you? What don't they like?**

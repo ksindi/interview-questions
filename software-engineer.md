@@ -14,7 +14,7 @@ _Takes ownership of a problem even when it's not 100% their responsibility; unde
 ## Team player
 _Takes feedback well._
 
-1. Tell me about a time when you changed your mind about something. What was your thought process behind it?
+1. Tell me about a time when someone changed your mind about something. What was your thought process behind it?
 1. Tell me about a time when you disagreed with your manager. What did you learn from this situation?
 1. Tell me about a time when you needed the cooperation of a peer who was resistant. What did you do? What was the outcome?
 1. Give me an example of a tough or critical piece of feedback you received. What was it and what did you do about it?
@@ -35,6 +35,7 @@ _Enjoys growing other engineers._
 _Digs a level deeper to understand what's happening under the hood._
 
 1. Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out.
+1. Please describe a few of the hardest problems you solved and exactly how you solved them. (This can be written).
 
 ## Simplifier
 _Simplifies problems instead of just hacks at things and adds tech debt. Does the person have a build vs. buy mentality._
