@@ -64,6 +64,7 @@
 1. What's the most challenging technical project you ran?
 1. Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out.
 1. Give an example of an architecture that needs thought around scale, security, monitoring, disaster recovery and reporting.
+1. Give me an example of how you've increased the engineering team's overall velocity but still maintained quality. How did you accomplish it?
 
 ## Operations
 1. How do you track and forecast costs of infrastructure?
