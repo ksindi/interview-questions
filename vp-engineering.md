@@ -6,6 +6,7 @@
 1. Why are you leaving your current company?
 1. What excites you about this company?
 1. What makes a _great_ VP of Engineering as opposed to just a good one?
+1. Have you always been in tech/start-ups? Which other industries have you been exposed to?
 
 ## Management Mechanics
 1. How do you keep in touch with your team?
@@ -15,6 +16,8 @@
 1. How is managing a manager different from managing individual contributors?
 1. How do you deal with someone who disagrees with a decision? Walk me through an example.
 1. What do you think about micromanaging? When (if ever) is it okay to micromanage?
+1. How do you define boundaries between roles?
+1. Do you prefer teams of specialists or generalists? Why?
 
 ## Engineer Growth, Organization and Hiring
 1. How do you assess an engineer's strengths and areas of growth?
