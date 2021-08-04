@@ -5,7 +5,7 @@
 1. Did you build the team or inherit them?
 1. Why are you leaving your current company?
 1. What excites you about this company?
-1. **What makes a _great_ VP of Engineering as opposed to just a good one?**
+1. What makes a _great_ VP of Engineering as opposed to just a good one?
 
 ## Management Mechanics
 1. How do you keep in touch with your team?
@@ -18,11 +18,12 @@
 
 ## Engineer Growth, Organization and Hiring
 1. How do you assess an engineer's strengths and areas of growth?
-1. What does your ideal career ladder look like? What other than technical proficiency do they value in an engineer?
+1. What does your ideal career ladder look like?
+1. What other than technical proficiency do you value in an engineer?
 1. When is someone ready to be a manager? How do you assess this readiness?
 1. Who was your best hire and why?
 1. How do you organize teams? How do you make sure best practices are shared?
-1. How do you think about hiring contractors?
+1. How do you think about hiring contractors / outsourcing?
 1. What are your thoughts on hiring offshore teams? When does it make sense?
 
 ## Team Culture and Communication
