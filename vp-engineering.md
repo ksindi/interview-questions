@@ -7,7 +7,7 @@
 4. What excites you about this company?
 5. **What makes a _great_ VP of Engineering as opposed to just a good one?**
 
-## Engineer Growth, Organization and Hiring
+## Engineer Growth and Organization
 1. **How do you organize teams (e.g. cross-functional, function)? What is your rational behind it?**
 2. How do you make sure best practices and standards are shared across your teams?
 3. How do you think about hiring contractors / outsourcing?
